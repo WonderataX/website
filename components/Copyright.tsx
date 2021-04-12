@@ -35,8 +35,8 @@ export default function Copyright() {
           <Column>
             <Heading>Legal</Heading>
             <FooterLink href="#">Terms and Conditions</FooterLink>
-            <FooterLink href="Return Policy.pdf">Return Policy</FooterLink>
-            <FooterLink href="Privacy Policy.pdf">Privacy Policy</FooterLink>
+            <FooterLink href="Return policy.pdf" target="_blank">Return Policy</FooterLink>
+            <FooterLink href="Privacy policy.pdf" target="_blank">Privacy Policy</FooterLink>
           </Column>
           <Column>
             <Heading>Social Media</Heading>
