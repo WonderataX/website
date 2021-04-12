@@ -12,10 +12,10 @@ export default function Copyright() {
   return (
     <>
       <Box>
-      <h1 style={{ color: "green", 
+      <h1 style={{ color: "white", 
                    textAlign: "center", 
                    marginTop: "-50px" }}>
-        GeeksforGeeks: A Computer Science Portal for Geeks
+        WonderataX Solutions
       </h1>
       <Container>
         <Row>
@@ -27,17 +27,16 @@ export default function Copyright() {
           </Column>
           <Column>
             <Heading>Services</Heading>
-            <FooterLink href="#">Writing</FooterLink>
-            <FooterLink href="#">Internships</FooterLink>
-            <FooterLink href="#">Coding</FooterLink>
-            <FooterLink href="#">Teaching</FooterLink>
+            <FooterLink href="#">Web Development</FooterLink>
+            <FooterLink href="#">AR/VR</FooterLink>
+            <FooterLink href="#">Graphic Design</FooterLink>
+            <FooterLink href="#">EDTECH</FooterLink>
           </Column>
           <Column>
-            <Heading>Contact Us</Heading>
-            <FooterLink href="#">Uttar Pradesh</FooterLink>
-            <FooterLink href="#">Ahemdabad</FooterLink>
-            <FooterLink href="#">Indore</FooterLink>
-            <FooterLink href="#">Mumbai</FooterLink>
+            <Heading>Legal</Heading>
+            <FooterLink href="#">Terms and Conditions</FooterLink>
+            <FooterLink href="#">Return PolicyooterLink>
+            <FooterLink href="#">Privacy Policy</FooterLink>
           </Column>
           <Column>
             <Heading>Social Media</Heading>
